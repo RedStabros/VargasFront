@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+body {
+ background-color: #261B26;
+}
+
+h6{
+    margin-top: 10px;
+}
+
+.login img {
+    height: auto;
+    width: auto;
+    max-height: 150px;
+    max-width: 180px;
+}
+
+.container{
+    margin-top: 200px;
+}
+
+.line{
+    margin-top: 20px;
+    background-color: #261B26;
+    height: 1px;
+}
